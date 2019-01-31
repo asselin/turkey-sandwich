@@ -5,6 +5,7 @@ Anish's favorite sandwich
 - Lettuce
 - Tomatoes
 - Spicy Mustard
+- Bacon!!!
 
 ## Bread
 - Wheat
